@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Thick Calc</string>
+    <string name="string_dose">Dose</string>
+    <string name="string_unidade_dose">Sv</string>
+    <string name="string_distancia">Distance</string>
+    <string name="unidade_distancia">m</string>
+    <string name="unidade_espessura">cm</string>
+    <string name="button_calculate">Result</string>
+    <string name="button_clean">Reset</string>
+    <string name="material_type_barite">BARITE</string>
+    <string name="material_type_concrete">CONCRETE</string>
+    <string name="material_type_steal">STEAL</string>
+    <string name="material_type_plumb">PLUMB</string>
+    <string name="button_share_name">Share</string>
+    <string name="instructions">
+        1 - Type the weekly dose of your odontologic X-Ray.\n\n
+        2 - Type the distance between the primary X-Ray source and the barrier.\n\n
+        3 - Select the units you want to use\n\n
+        4 - Click on RESULT button.\n\n
+        5 - Swipe to Begin\n\n
+        \n
+        \n
+        \n
+        \n
+        Note: This software was only designed for odontologic X-Ray equipment.
+        Do not use it for other X-Rays sources.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+
+    </string>
+
+    <string-array name="distance_units">
+        <item>m</item>
+        <item>inch</item>
+        <item>ft</item>
+    </string-array>
+
+    <string-array name="dose_units">
+        <item>Sv</item>
+        <item>mSv</item>
+        <item>\u00B5Sv</item>
+    </string-array>
+</resources>
